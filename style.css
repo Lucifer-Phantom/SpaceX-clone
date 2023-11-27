@@ -10,6 +10,7 @@ a{
 /* Main Background */
 body{
     background-color: black;
+    overflow-x: hidden;
 }
 .bgimg{
     height: 100vh;
